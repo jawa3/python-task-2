@@ -1,0 +1,4 @@
+Learn Python
+Complete Task 2
+Practice file handling
+Upload project to GitHub
